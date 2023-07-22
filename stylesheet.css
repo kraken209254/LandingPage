@@ -139,6 +139,31 @@ button{
     font-family: Arial,sans-serif;
     color: #1F2937;
 }
+.textquote{
+    display: flex;
+    align-content: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    padding: 150px 400px;
+    justify-content: flex-end;
+    background-color: #E5E7EB;
+
+}
+.quote{
+    flex:1 1 auto;
+    font-size: 36px;
+    font-weight:lighter;
+    font-style: italic;
+    color: #1F2937;
+    margin-bottom: 30px;
+    font-family: Arial,Verdana,sans-serif;
+}
+.Author{
+    text-align: right;
+    font-weight:bold;
+    font-family: Arial,Verdana,sans-serif;
+    font-size: 24px;
+}
 
 
 
